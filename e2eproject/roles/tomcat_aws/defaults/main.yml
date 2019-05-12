@@ -3,5 +3,5 @@
 region: us-east-2
 instance_type: t2.micro
 ami: ami-0b500ef59d8335eee  # Redhat
-keypair: cli-kep # pem file name
+keypair: cli-kp # pem file name
 
